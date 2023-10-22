@@ -1,0 +1,56 @@
+# Compiled class files
+*.class
+
+# Kotlin/Native specific
+*.klib
+*.dSYM/
+
+# Kotlin Gradle Plugin
+*.kotlin_metadata
+
+# IDE files (IntelliJ IDEA and Android Studio)
+.idea/
+*.iml
+
+# Build directories and files
+build/
+out/
+
+# Gradle
+.gradle/
+.gradle
+gradlew
+gradlew.bat
+gradle-wrapper.properties
+gradle-wrapper.jar
+
+# macOS files
+.DS_Store
+
+# Logs and databases
+*.log
+*.ldb
+
+# Local configuration file
+local.properties
+
+# Node.JS (if you're using Kotlin/JS)
+node_modules/
+
+# Other common temporary and backup files
+*~
+*.swp
+*.bak
+*.tmp
+
+# Generated directories and files (e.g., for mobile platforms)
+iosApp/build/
+androidApp/build/
+
+# Additional files and directories
+captures/
+.externalNativeBuild/
+.cxx/
+xcuserdata/
+
+# Other platform-specific exclusions can be added here
